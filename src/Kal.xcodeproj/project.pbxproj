@@ -252,6 +252,7 @@
 				GCC_PREFIX_HEADER = Kal_Prefix.pch;
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = Kal;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -266,6 +267,7 @@
 				GCC_PREFIX_HEADER = Kal_Prefix.pch;
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = Kal;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
